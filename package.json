@@ -1,0 +1,24 @@
+{
+  "name": "strategy-uptime",
+  "version": "0.1.0",
+  "description": "sammler.io strategy to provide uptime services.",
+  "keywords": [
+    "sammler"
+  ],
+  "homepage": "https://github.com/sammler/strategy-uptime#readme",
+  "bugs": {
+    "url": "https://github.com/sammler/strategy-uptime/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammler/strategy-uptime.git"
+  },
+  "license": "MIT",
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
